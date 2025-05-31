@@ -29,10 +29,3 @@ A Streamlit-based NLP web app that classifies product reviews as **Positive**, *
 - **Matplotlib** – For sentiment distribution visualization
 
 
-## 🔧 Setup Instructions
-
-1. Clone this repo:
-
-```bash
-git clone https://github.com/your-username/product-review-sentiment-analyzer.git
-cd product-review-sentiment-analyzer
